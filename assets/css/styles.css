@@ -1,9 +1,15 @@
 h2 {
-  font-size: 25px;
-  color: orange;
+  color: rgb(50, 42, 165);
 }
 
-p {
-  color: black;
+h2 {
+  color: #322aa5;
+}
 
+h2 {
+  color: hsl(244, 79%, 63%);
+}
+
+h2 {
+  color: hwb(244 31% 32%);
 }
