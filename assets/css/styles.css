@@ -1,9 +1,9 @@
-h2 {
-  font-size: 25px;
-  color: orange;
+body {
+  color: red;
+  font-size: 50px;
 }
 
 p {
-  color: black;
-
+  font-size: 20px;
+  color: blue;
 }
