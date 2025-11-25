@@ -1,24 +1,17 @@
 body {
   font-family: "Elms Sans", sans-serif;
-}
-
-h1 {
-  font-size: 45px;
   text-align: center;
 }
 
-p {
-  font-size: 20px;
-  font-weight: 600;
-  text-align: left;
-/*   font-style: italic;
-  text-decoration: overline;
-  text-transform: capitalize;
-  word-spacing: 15px;
-  letter-spacing: 5px; */
-  line-height: 40px;
-
-
-
-
+img {
+  width: 90%;
+  border-radius: 30px;
+  filter: drop-shadow(20px 40px 5px #dc143c);
+/*   border-radius: 15px 30px 90px 90px; */
+/*   filter: blur(2px); */
+/*   filter: brightness(250%); */
+/*   filter: opacity(55%); */
+/*   filter: saturate(75%); */
+/*   filter: contrast(180%); */
+/*   filter: grayscale(30%); */
 }
