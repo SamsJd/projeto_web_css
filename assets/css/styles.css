@@ -1,9 +1,11 @@
-h2 {
-  font-size: 25px;
-  color: orange;
+body {
+  font-family:Arial, Helvetica, sans-serif
 }
 
-p {
-  color: black;
+ol {
+  list-style: lower-alpha;
+}
 
+ul {
+  list-style:square;
 }
