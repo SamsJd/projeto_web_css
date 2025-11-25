@@ -1,9 +1,24 @@
-h2 {
-  font-size: 25px;
-  color: orange;
+body {
+  font-family: "Elms Sans", sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
 }
 
 p {
-  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+/*   font-style: italic;
+  text-decoration: overline;
+  text-transform: capitalize;
+  word-spacing: 15px;
+  letter-spacing: 5px; */
+  line-height: 40px;
+
+
+
 
 }
